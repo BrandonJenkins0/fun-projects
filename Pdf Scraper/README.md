@@ -3,8 +3,7 @@ My brother was copying and pasting hundreds of values off a pdf every month for 
 
 He simply provides the path file to his pdf he wants the values pulled from. The program terminates when finished, with the desired values placed in his clipboard ready to be pasted anywhere. 
 
-![](Pdf Scraper/PDFScraper%20Image.JPG)
-
+<img src="Pdf Scraper/PDFScraper%20Image.JPG">
 
 Using [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) I converted the .py file into an .exe file that he could run on his computer without needing to install python or any packages. 
 
