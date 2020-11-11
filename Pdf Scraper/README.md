@@ -1,7 +1,7 @@
 # PDFScraper
 My brother was copying and pasting hundreds of values off a pdf every month for his work. He would snag the vendor's name and a dollar amount associated with that vendor. He reached out for a way to automate the copying process. This program is the result of his request.
 
-He simply provides the path file to his pdf he wants the values pulled from. The program terminates when finished, with the desired values placed in his clipboard ready to be pasted anywhere. 
+He simply provides the path file to the pdf. The program terminates when finished, with the desired values placed in his clipboard ready to be pasted anywhere. 
 
 <img src="Image/PDFScraper%20Image.png">
 
