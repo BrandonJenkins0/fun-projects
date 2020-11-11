@@ -1,2 +1,2 @@
 # fun-projects
-random fun projects I undertook
+random fun projects
