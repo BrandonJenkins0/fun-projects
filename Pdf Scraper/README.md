@@ -3,7 +3,7 @@ My brother was copying and pasting hundreds of values off a pdf every month for 
 
 He simply provides the path file to the pdf. The program terminates when finished, with the desired values placed in his clipboard ready to be pasted anywhere. 
 
-<img src="Image/PDFScraper%20Image.png">
+<img src="Image/PDFScraperImage2.png">
 
 Using [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/), I converted the .py file into an .exe file that he could run on his computer without needing to install python or any packages. 
 
