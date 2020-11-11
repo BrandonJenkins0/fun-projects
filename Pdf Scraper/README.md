@@ -7,4 +7,4 @@ He simply provides the path file to the pdf. The program terminates when finishe
 
 Using [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/), I converted the .py file into an .exe file that he could run on his computer without needing to install python or any packages. 
 
-This program has saved him a quite a bit of brain numbing time each month and allows him to focus on the more important parts of his job.
+This program has saved him a quite a bit of brain numbing time each month allowing him to focus on the more important parts of his job.
